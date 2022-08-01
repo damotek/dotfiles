@@ -8,3 +8,4 @@ rocketchat-desktop
 htop
 nitrogen
 awesomefonts
+rofi power menu
